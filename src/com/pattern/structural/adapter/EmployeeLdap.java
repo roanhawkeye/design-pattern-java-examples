@@ -21,28 +21,18 @@ public class EmployeeLdap {
 	public String getCn() {
 		return cn;
 	}
-	public void setCn(String cn) {
-		this.cn = cn;
-	}
+
 	public String getSurname() {
 		return surname;
 	}
-	public void setSurname(String surname) {
-		this.surname = surname;
-	}
+
 	public String getGivenName() {
 		return givenName;
 	}
-	public void setGivenName(String givenName) {
-		this.givenName = givenName;
-	}
+
 	public String getMail() {
 		return mail;
-	}
-	public void setMail(String mail) {
-		this.mail = mail;
-	}
-	
+	}	
 	
 	
 }
