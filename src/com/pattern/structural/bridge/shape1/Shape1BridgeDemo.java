@@ -8,8 +8,11 @@ public class Shape1BridgeDemo {
 		
 		Square square = new RedSquare();
 		
+		Square greenSquare = new GreenSquare();
+		
 		circle.applyColor();
 		square.applyColor();
+		greenSquare.applyColor();
 		
 	}
 
